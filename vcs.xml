@@ -1,0 +1,25 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://stove-gitlab.sginfra.net" />
+          <option name="userName" value="hheelee@smilegate.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://stove-gitlab.sginfra.net/service_engine/social_engine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://stove-gitlab.sginfra.net/hheelee/social_engine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://stove-gitlab.sginfra.net/hheelee/social_engine_batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/git/hheelee" />
+  </component>
+</application>

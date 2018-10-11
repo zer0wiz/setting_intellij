@@ -1,0 +1,23 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="ExplicitArgumentsMenu.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+  </action>
+  <action id="GenerateSerialVersionUID">
+    <keyboard-shortcut first-keystroke="shift ctrl meta s" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+</keymap>

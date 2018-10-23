@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CheckStyleCurrentFileAction">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="ctrl x" />

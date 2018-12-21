@@ -18,6 +18,7 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
+  <action id="IntroduceVariable" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />

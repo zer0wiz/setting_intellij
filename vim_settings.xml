@@ -1,13 +1,27 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1545370745607">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/hheelee/social_engine_batch/src/main/java/com/socialengine/feedretry/FeedAutomaticRetryScheduler.java" timestamp="1545371032426" />
       <file name="$USER_HOME$/git/ugc-leaderboard/src/main/java/com/leaderboard/ugc/leaderboard/AppMain.java" timestamp="1545289114595">
         <mark key="[" line="33" column="106" />
         <mark key="]" line="33" column="106" />
         <mark key="." line="33" column="106" />
         <mark key="^" line="33" column="98" />
+      </file>
+      <file name="$USER_HOME$/git/hheelee/social_engine_batch/src/main/resources/config/stage/config.properties" timestamp="1545370016626" />
+      <file name="/fragment.java" timestamp="1545370745595">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/hheelee/social_engine_batch/src/main/java/com/socialengine/ugc/UGCStatisticScheduler.java" timestamp="1545371133880">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="8" />
+        <mark key="^" line="36" column="8" />
+        <mark key="." line="36" column="8" />
       </file>
     </filemarks>
     <jumps />
@@ -16,10 +30,10 @@
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgL1VzZXJzL3VzZXIvY2hlY2tzdHlsZS91cGRhdGUtbWV0YS0yMDE4MTIyMC5jc3Yg</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgL1VzZXJzL3VzZXIvY2hlY2tzdHlsZS91cGRhdGUtbWV0YS0yMDE4MTIyMC5jc3Yg</text>
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>`</text>
       </register>
     </registers>
     <search>
@@ -32,7 +46,11 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>

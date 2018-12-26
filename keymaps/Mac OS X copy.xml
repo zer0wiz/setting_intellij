@@ -31,4 +31,7 @@
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="VimMotionInnerBlockDoubleQuote">
+    <keyboard-shortcut first-keystroke="shift ctrl meta quote" />
+  </action>
 </keymap>

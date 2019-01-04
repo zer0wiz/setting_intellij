@@ -233,6 +233,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'UGC_이벤트미션집계_Test.미션이벤트48시간_테스트'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'UGC_이벤트미션집계_Test.미션이벤트48시간_테스트'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -399,6 +407,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'UGCStatisticServiceTest.test'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'UGC_이벤트미션집계_Test.미션이벤트48시간_테스트'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'UGC_이벤트미션집계_Test.미션이벤트48시간_테스트'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'local'">

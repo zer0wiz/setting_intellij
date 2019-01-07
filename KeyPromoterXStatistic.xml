@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>113</Count>
+          <Count>115</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -446,7 +446,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'UGC_이벤트미션집계_Test.미션이벤트48시간_테스트'</Description>
-          <Count>5</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'local'">

@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java, *.properties, *.xml" />
+    <option name="customScope" value="STOIOPDEV-231 UGC 평가 (플레이한 유저)" />
+    <option name="defaultScopeName" value="STOIOPDEV-231 UGC 평가 (플레이한 유저)" />
+    <option name="SEARCH_SCOPE" value="STOIOPDEV-231 UGC 평가 (플레이한 유저)" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

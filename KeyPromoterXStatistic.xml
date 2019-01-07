@@ -33,6 +33,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'FriendsRepositoryTests.getMemberListest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'FriendsRepositoryTests.getMemberListest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'MountainBatchApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -353,6 +361,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'FriendsRepositoryTests.getMemberListest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'FriendsRepositoryTests.getMemberListest'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MountainBatchApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -446,7 +462,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'UGC_이벤트미션집계_Test.미션이벤트48시간_테스트'</Description>
-          <Count>10</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'local'">

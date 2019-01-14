@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AppMain'">
@@ -129,6 +129,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'TestCase_UGC_아케이드홈_최근게임목록.최근게임목록_직접서비스조회'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'TestCase_UGC_아케이드홈_최근게임목록.최근게임목록_직접서비스조회'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'UGCStatisticSchedulerTest.parseTimeval'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -190,7 +198,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'build shitawu_sdev'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'getOthersCardFeedL...()'">
@@ -273,6 +281,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '사이즈값입력없이요청()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug '사이즈값입력없이요청()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug '엑세스토큰_시큐어토큰Test.엑세스토큰'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -313,6 +329,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Favorites">
+        <Item>
+          <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
+          <ShortCut>'⌘2'</ShortCut>
+          <Description>Favorites</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find Usages">
         <Item>
           <IdeaActionID>FindUsages</IdeaActionID>
@@ -334,7 +358,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>360</Count>
+          <Count>375</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -342,7 +366,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Highlight current scope">
@@ -358,7 +382,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>132</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Library Settings">
@@ -367,6 +391,14 @@
           <ShortCut>'F4'</ShortCut>
           <Description>Open Library Settings</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'⌘1'</ShortCut>
+          <Description>Project</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -561,6 +593,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'TestCase_UGC_아케이드홈_최근게임목록.사이즈값입력없이요청'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'TestCase_UGC_아케이드홈_최근게임목록.사이즈값입력없이요청'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'TestCase_UGC_아케이드홈_최근게임목록.아케이드홈_최근게임목록'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -702,7 +742,7 @@
           <IdeaActionID>$TranslateAndReplaceAction</IdeaActionID>
           <ShortCut>'⇧⌘X' or '⌃⌘O'</ShortCut>
           <Description>Translate and Replace...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -710,7 +750,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Vim Emulator">

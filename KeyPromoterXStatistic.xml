@@ -137,6 +137,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'TestCase_UGC_아케이드홈_최근게임목록.사이즈값입력없이요청'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'TestCase_UGC_아케이드홈_최근게임목록.사이즈값입력없이요청'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'TestCase_UGC_아케이드홈_최근게임목록.아케이드홈_최근게임목록'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -286,7 +294,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'tomcat'</Description>
-          <Count>30</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '사이즈10개입력요청()'">
@@ -374,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>412</Count>
+          <Count>420</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -398,7 +406,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>143</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Library Settings">
@@ -646,7 +654,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TestCase_UGC_아케이드홈_최근게임목록.사이즈값입력없이요청'</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TestCase_UGC_아케이드홈_최근게임목록.아케이드홈_최근게임목록'">
@@ -758,7 +766,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'tomcat'</Description>
-          <Count>46</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
@@ -766,7 +774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">

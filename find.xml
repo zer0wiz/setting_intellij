@@ -15,5 +15,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*Scheduler.java</mask>
+    <mask>!*.log</mask>
+    <mask>*.java, *.properties, *.xml</mask>
   </component>
 </application>

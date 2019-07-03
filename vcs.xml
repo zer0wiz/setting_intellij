@@ -26,8 +26,12 @@
           <option name="url" value="http://stove-gitlab.sginfra.net/hheelee/sg-es.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://stove-gitlab.sginfra.net/service_engine/social_engine_batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/hheelee" />
+    <option name="cloneParentDir" value="C:\Users\hheelee\git\hheelee" />
   </component>
 </application>

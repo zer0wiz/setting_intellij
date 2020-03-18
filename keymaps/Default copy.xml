@@ -1,8 +1,25 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="DecreaseColumnWidth" />
+  <action id="EditorNextWordWithSelection" />
+  <action id="EditorPreviousWordWithSelection" />
   <action id="EmmetPreviousEditPoint">
     <keyboard-shortcut first-keystroke="shift alt open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="IncreaseColumnWidth" />
+  <action id="IncrementWindowWidth" />
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
